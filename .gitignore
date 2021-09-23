@@ -1,4 +1,5 @@
 /venv
+/.ipynb_checkpoints
 test-balanced.csv
 test-unbalanced.csv
 train-balanced-sarcasm.csv
