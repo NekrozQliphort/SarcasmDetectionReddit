@@ -5,7 +5,7 @@
 1. Run `python3 venv -m venv venv`
 2. Run `source venv/bin/activate`
 3. Run `pip install -r requirements.txt`
-4. Install the required files from [here](https://www.kaggle.com/danofer/sarcasm).
+4. Download the required files from [here](https://www.kaggle.com/danofer/sarcasm).
 
 ### Easy as that!
 
